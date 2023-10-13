@@ -1,0 +1,15 @@
+    REST API with JSON Server
+    --------------------------
+
+1. create a sever folder
+2. create a package.json file : npm init -y
+3. install package to run json file : npm i json-Server
+4. create .gitignore file , ignore node_modules
+5. create a db.json file to store json data
+6. create a index.js file to define json sever
+ -import json-server in index.js 
+
+
+
+
+ 7. to run server , update start in script 
